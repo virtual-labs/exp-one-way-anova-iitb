@@ -1,0 +1,47 @@
+[
+   {
+      "question": "In conducting one way analysis of variance, which of the following test statistic would be used?",
+      "qid": 1,
+      "option_a": "Z",
+      "option_b": "t",
+      "option_c": "F",
+      "option_d": "&chi;<sup>2</sup>",
+      "correct_option": "c"
+   },
+   {
+      "question": "For ANOVA table: <br> <img src=\"./lab-manual/images/pre_q2.png\" alt=\"table\"> <br> The F statistic is",
+      "qid": 2,
+      "option_a": "7.2",
+      "option_b": "7.5",
+      "option_c": "7.3",
+      "option_d": "7.4",
+      "correct_option": "b"
+   },
+   {
+      "question": "In ANOVA, a factor is",
+      "qid": 3,
+      "option_a": "A dependent variable",
+      "option_b": "A set of related treatments, categories or conditions",
+      "option_c": "A variable that is confounded with individual variables",
+      "option_d": "None",
+      "correct_option": "b"
+   },
+   {
+      "question": "ANOVA is invented by",
+      "qid": 4,
+      "option_a": "J. Thomson",
+      "option_b": "Stephen",
+      "option_c": "R.A. Fisher",
+      "option_d": "Rutherford",
+      "correct_option": "c"
+   },
+   {
+      "question": "The within variance is associated with",
+      "qid": 5,
+      "option_a": "Error group",
+      "option_b": "Interaction group",
+      "option_c": "Treatment group",
+      "option_d": "Main group",
+      "correct_option": "c"
+   }
+]

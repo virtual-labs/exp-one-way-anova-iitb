@@ -1,0 +1,47 @@
+[
+   {
+      "question": "ANOVA is used to compare",
+      "qid": 1,
+      "option_a": "Three or more sample means from dependent groups",
+      "option_b": "Three or more sample means from independent groups",
+      "option_c": "Two sample means from dependent groups",
+      "option_d": "Two sample means from independent groups",
+      "correct_option": "b"
+   },
+   {
+      "question": "ANOVA stands for",
+      "qid": 2,
+      "option_a": "Analysis of variability",
+      "option_b": "Analysis of variation",
+      "option_c": "Analysis of normality",
+      "option_d": "Analysis of variance",
+      "correct_option": "d"
+   },
+   {
+      "question": "In one way ANOVA, the null hypothesis states that",
+      "qid": 3,
+      "option_a": "Atleast one group mean is different from others",
+      "option_b": "All groups have same variance",
+      "option_c": "All groups have same mean",
+      "option_d": "The sample means are normally distributed",
+      "correct_option": "c"
+   },
+   {
+      "question": "ANOVA assumes that, a dependent variable measure on a/an",
+      "qid": 4,
+      "option_a": "Nominal scale",
+      "option_b": "Ordinal scale",
+      "option_c": "Continuous scale",
+      "option_d": "Dichotomous scale",
+      "correct_option": "c"
+   },
+   {
+      "question": "The total sum of square in ANOVA represents",
+      "qid": 5,
+      "option_a": "The total variation in the data",
+      "option_b": "The mean of the data",
+      "option_c": "The sum of squares within groups",
+      "option_d": "The sum of square between groups",
+      "correct_option": "a"
+   }
+]
